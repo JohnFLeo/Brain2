@@ -1,0 +1,1 @@
+BS is a symlink on my machine if you want to use the pdfs you need to put the Slides from the lecture in a folder. Furthermore there are two extensions which are used: Exalidraw(not used until now) and PDF++(heavyly used)
