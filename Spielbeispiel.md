@@ -6,5 +6,6 @@ Prozessor: 6 Register
 - PC(Programmzähler)
 - IR
 - CCR
+
 Speicher: [[von Neumann Architektur]]
 ![[GdBS-C-Arch.pdf#page=26&rect=53,68,654,420|GdBS-C-Arch, p.26]]

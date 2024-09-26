@@ -11,5 +11,6 @@ Datenstruktur im Betriebssystem zur Prozessverwaltung
 - Elternprozess, Prozessgruppe
 - Zugriffs- und Benutzerrechte
 - Ein- und Ausgabegeräte status
+
 Bsp.:
 - [[PCB(Linux)]]
