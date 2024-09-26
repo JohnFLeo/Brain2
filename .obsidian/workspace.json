@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd258db2522870e2",
+        "id": "37b4069124fce97a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3114bb20c81dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lösung 2023s-BS-K1-Klausur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d1d6a2d50ed54439",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ddac369d46310406",
+            "id": "233760ce546ffab2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
                 "page": 3,
-                "left": -16,
-                "top": 845,
-                "zoom": 0.9273009494755375
+                "left": -8,
+                "top": 133,
+                "zoom": 1.920117726903151
               }
             }
           }
@@ -105,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lösung 2023s-BS-K1-Klausur.md",
+                "file": "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lösung 2023s-BS-K1-Klausur.md",
+                "file": "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lösung 2023s-BS-K1-Klausur.md"
+                "file": "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf"
               }
             }
           }
@@ -170,43 +152,44 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2b3114bb20c81dfa",
+  "active": "233760ce546ffab2",
   "lastOpenFiles": [
-    "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
-    "Lösung 2023s-BS-K1-Klausur.md",
-    "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.md",
     "BS/Altklausuren-20240913/2023s-GdBS-K1-Klausur.pdf",
+    "BS/Betriebssysteme Sheet.pdf",
+    "BS/GdBS-F-FS.pdf",
     "Auswahlstrategie.md",
+    "PSJF.md",
+    "SJF.md",
+    "BS/Vorlesungsfolien/GdBS-E-Proc.pdf",
+    "HPF.md",
     "Scheduler.md",
-    "Anwendungs-, Prozessverwaltung.md",
-    "Aktivitätsträger.md",
-    "Prozess.md",
     "PCB.md",
     "PCB(Linux).md",
+    "UNIX Linux.md",
     "Betriebssystem.md",
     "Betriebssysteme(Vorlesung).md",
-    "BS/Vorlesungsfolien/GdBS-F-FS.pdf",
-    "RTI.md",
-    "SJF.md",
-    "Speicherverwaltung.md",
+    "CFS.md",
+    "Dateisysteme.md",
+    "Ein und Ausgabegeräte.md",
+    "Ein- und Ausgabe.md",
+    "Prozessor.md",
     "Spielbeispiel.md",
-    "Systemaufruf.md",
-    "Systemsteuerung.md",
-    "UNIX Linux.md",
-    "Unterbrechung.md",
     "von Neumann Architektur.md",
-    "Wurzelverzeichnis(Linux).md",
-    "BS/Vorlesungsfolien/GdBS-E-Proc.pdf",
-    "FCFS.md",
-    "Betriebsmittel.md",
-    "Ressource.md",
-    "Prozess(Linux).md",
-    "BS.zip",
-    "BS/Vorlesungsfolien/GdBS-I-Virt.pdf",
-    "Unbenannt.canvas",
-    "BS/Vorlesungsfolien/GdBS-D-OS.pdf",
-    "Verwaltung Ein-",
+    "Harvard Architektur.md",
     "BS/Vorlesungsfolien/GdBS-C-Arch.pdf",
-    "BS/Vorlesungsfolien/GdBS-K-Rights.pdf"
+    "Befehlsbearbeitung.md",
+    "Systemaufruf.md",
+    "Aufbau eines Rechnersystems.md",
+    "Privilegierter Modus.md",
+    "Betriebsmittel.md",
+    "Anwendungs-, Prozessverwaltung.md",
+    "Ressource.md",
+    "BS/Vorlesungsfolien/GdBS-D-OS.pdf",
+    "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
+    "BS/Tutoriumsfolien-20240911/Tutorium06_Folien.pdf",
+    "BS/Tutoriumsfolien-20240911/Tutorium05_Folien.pdf",
+    "BS/Tutoriumsfolien-20240911/Tutorium04_Folien.pdf",
+    "BS/Tutoriumsfolien-20240911/Tutorium03_Folien.pdf",
+    "Unbenannt.canvas"
   ]
 }
