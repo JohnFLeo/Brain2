@@ -1,0 +1,1 @@
+siehe [[Algorithmus von Peterson]]

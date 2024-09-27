@@ -9,12 +9,12 @@
 	- z.B. Netzwerkaufgaben neben Benutzerinteraktion 
 	- z.B. viele gleichzeitige Anfragen in Server-Anwendungen 
 - Ausnutzung von Mehrkernprozessoren und -systemen 
-	- echte Parallelität bei nur einem Prozess
+	- echte Parallelität bei nur einem [[Prozess]]
 - in der Regel übersichtlicherer Code 
-- Prozess als Hülle für gemeinsame Ressourcen der Threads 
+- [[Prozess]] als Hülle für gemeinsame [[Ressource]]n der [Threads](Aktivitätsträger) 
 - gleiche Daten und gleicher Code (Speicher) 
 - Schutzumgebung 
-	- Umschaltung zwischen Threads im gleichen Prozess ist effizienter als zwischen Threads verschiedener Prozesse 
+	- Umschaltung zwischen [Threads](Aktivitätsträger) im gleichen [[Prozess]] ist effizienter als zwischen [Threads](Aktivitätsträger) verschiedener [[Prozess]]e 
 - gemeinsam genutzte Dateien, Netzwerkverbindungen etc.
 **Nachteile**
-- Problem der Koordinierung
+- Problem der [[Koordinierung]]

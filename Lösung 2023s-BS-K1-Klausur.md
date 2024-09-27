@@ -29,7 +29,7 @@ Das ist der sogenannte [[Systemaufruf]]. Dieser dient als Schnittstelle für Anw
 ![[2023s-BS-K1-Klausur.pdf#page=3&rect=29,566,561,627|2023s-BS-K1-Klausur, p.3]]
 Gleiche Daten und gleicher Code (Speicher), Dateien, Netzwerkverbindungen
 ![[2023s-BS-K1-Klausur.pdf#page=3&rect=36,413,566,458|2023s-BS-K1-Klausur, p.3]]
-Man schränkt die Nebenläufigkeit ein um gleichzeitigen Zugriff auf gemeinsame Ressourcen zu verhindern -> möglichst wenig zeitliche Durchmischung
+Man schränkt die [[Nebenläufigkeit]] ein um gleichzeitigen Zugriff auf gemeinsame Ressourcen zu verhindern -> möglichst wenig zeitliche Durchmischung
 **Maßnahmen**
 - Bei Zugriff auf gemeinsame Ressource wird Prozess angehalten
 - Dem Scheduler wird das Umschalten untersagt
