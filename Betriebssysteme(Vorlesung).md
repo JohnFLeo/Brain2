@@ -13,6 +13,7 @@ Inhalt
 Weiter bei [[MLQ]]
 ![[GdBS-E-Proc.pdf#page=66&rect=44,78,676,474|GdBS-E-Proc, p.66]]
 Und bei [[Deadlock]]
+Und bei [[Dateiverwaltung]]
 
 
 
