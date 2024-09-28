@@ -3,6 +3,6 @@
 - Häufig genutzt in Kombination mit [[Kernel-level Thread]]s d.h. [Scheduling](Scheduler) auf mehreren Ebenen 
 ## Bewertung
 - Nur so parallel wie die Zahl der [[Kernel-level Thread]]s
-- User-level Threads können schneller umgeschaltet werden da kein Wechsel ins Betriebssystem nötig ist
+- User-level Threads können schneller umgeschaltet werden da kein Wechsel ins [[Betriebssystem]] nötig ist
 - User-level Threads sind mit jeder beliebigen [Strategie](Auswahlstrategie) umschaltbar
 - Bei [Blockierung](Prozesszustand) des User-level Threads bleibt [[Aktivitätsträger]] im [[Betriebssystem]] hängen

@@ -8,10 +8,11 @@ Inhalt
 - [[Betriebssystem]]
 - [[Prozess]]e
 - [[Scheduler]]
+- [[Koordinierung]]
 
 Weiter bei [[MLQ]]
 ![[GdBS-E-Proc.pdf#page=66&rect=44,78,676,474|GdBS-E-Proc, p.66]]
-Und bei [[Koordinierung]],[[Nebenläufigkeit]],[[Multithreading]]
+Und bei [[Deadlock]]
 
 
 

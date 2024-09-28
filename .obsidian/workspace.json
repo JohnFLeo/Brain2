@@ -8,76 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "578555d553899438",
+            "id": "f2a6468b443a2e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Betriebssysteme(Vorlesung).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96bafaad4b878bcc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "BS/Vorlesungsfolien/GdBS-E-Proc.pdf",
-                "page": 81,
+                "file": "BS/Vorlesungsfolien/GdBS-J-Deadlock.pdf",
+                "page": 9,
                 "left": -21,
-                "top": 495,
+                "top": 208,
                 "zoom": 0.7229166666666665
               }
             }
           }
         ]
-      },
-      {
-        "id": "7f84f3a3b2c0fc05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "defe17303a28757e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kritischer Abschnitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe26805f52b22061",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multithreading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a214153bc6e393e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kernel-level Thread.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a85a47059261325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User-level Thread.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prozesse",
+                "query": "wechse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a236c1582e6b4c54",
@@ -144,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel-level Thread.md",
+                "file": "Betriebssysteme(Vorlesung).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel-level Thread.md",
+                "file": "Betriebssysteme(Vorlesung).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kernel-level Thread.md"
+                "file": "Betriebssysteme(Vorlesung).md"
               }
             }
           }
@@ -209,43 +164,43 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4a214153bc6e393e",
+  "active": "f2a6468b443a2e46",
   "lastOpenFiles": [
+    "Betriebssystem.md",
+    "Betriebssysteme(Vorlesung).md",
     "BS/Vorlesungsfolien/GdBS-E-Proc.pdf",
-    "Kernel-level Thread.md",
-    "User-level Thread.md",
-    "Auswahlstrategie.md",
+    "BS/Tutoriumsfolien-20240911/Tutorium06_Folien.pdf",
+    "Sperrung von Unterbrechungen.md",
+    "Koordinierung.md",
+    "Spinlock.md",
+    "Semaphore.md",
+    "BS/Vorlesungsfolien/GdBS-J-Deadlock.pdf",
+    "Nebenläufigkeit.md",
+    "Gegenseitiger Ausschluss.md",
+    "Wechselseitiger Ausschluss.md",
+    "Deadlock.md",
+    "Algorithmus von Peterson.md",
+    "TAS.md",
+    "SWP.md",
+    "Kritischer.md",
     "Multithreading.md",
     "Kritischer Abschnitt.md",
-    "Koordinierung.md",
-    "Wechselseitiger Ausschluss.md",
+    "BS/Tutoriumsfolien-20240911/Tutorium05_Folien.pdf",
+    "User-level Thread.md",
+    "Kernel-level Thread.md",
+    "Auswahlstrategie.md",
     "Aktivitätsträger.md",
-    "Gegenseitiger Ausschluss.md",
-    "Algorithmus von Peterson.md",
-    "Kritischer.md",
-    "Betriebssysteme(Vorlesung).md",
-    "Betriebssystem.md",
     "Prozess(Linux).md",
     "PCB(Linux).md",
     "PCB.md",
     "Scheduler.md",
     "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
     "Lösung 2023s-BS-K1-Klausur.md",
-    "Sheduler.md",
-    "BS/Tutoriumsfolien-20240911/Tutorium05_Folien.pdf",
-    "Prozess.md",
     "BS/Altklausuren-20240913/2023s-GdBS-K1-Klausur.pdf",
     "BS/Betriebssysteme Sheet.pdf",
     "BS/GdBS-F-FS.pdf",
-    "PSJF.md",
-    "SJF.md",
-    "HPF.md",
-    "UNIX Linux.md",
-    "CFS.md",
     "BS/Vorlesungsfolien/GdBS-C-Arch.pdf",
     "BS/Vorlesungsfolien/GdBS-D-OS.pdf",
-    "BS/Tutoriumsfolien-20240911/Tutorium06_Folien.pdf",
-    "BS/Tutoriumsfolien-20240911/Tutorium04_Folien.pdf",
     "Unbenannt.canvas"
   ]
 }

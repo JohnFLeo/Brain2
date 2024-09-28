@@ -16,5 +16,6 @@
 - Schutzumgebung 
 	- Umschaltung zwischen [Threads](Aktivitätsträger) im gleichen [[Prozess]] ist effizienter als zwischen [Threads](Aktivitätsträger) verschiedener [[Prozess]]e 
 - gemeinsam genutzte Dateien, Netzwerkverbindungen etc.
+
 **Nachteile**
 - Problem der [[Koordinierung]]
