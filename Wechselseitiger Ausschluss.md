@@ -1,0 +1,1 @@
+Gleichbedeutend mit [[Gegenseitiger Ausschluss]] auch Mutex (engl.: Mutual Exclusion) genannt.

@@ -20,4 +20,4 @@ Vernachlässigt wurde dabei
 	- Bsp.: [[Systemaufruf]] yield gibt dem [[Betriebssystem]] Möglichkeit den nächsten [[Prozess]] auszuwählen
 	- Bsp.: Co-Routinen [[Systemaufruf]] yield mit [[Prozess]]-ID Parameter der [[Prozess]] bestimmt seinen Nachfolger -> keine Fairness, Umschaltstrategie in der Anwendung
 - Besser: [[Scheduler]] Komponente
-
+## [[Multithreading]] 

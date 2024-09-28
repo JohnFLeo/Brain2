@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f10add2e40342677",
+        "id": "e6f9b98d4c9a0494",
         "type": "tabs",
         "children": [
           {
-            "id": "f526a1b5c26bc506",
+            "id": "f2a6468b443a2e46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Betriebssysteme(Vorlesung).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96bafaad4b878bcc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BS/Vorlesungsfolien/GdBS-J-Deadlock.pdf",
+                "page": 9,
+                "left": -21,
+                "top": 208,
+                "zoom": 0.7229166666666665
+              }
             }
           }
         ]
@@ -44,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strate",
+                "query": "wechse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a236c1582e6b4c54",
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Betriebssysteme(Vorlesung).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Betriebssysteme(Vorlesung).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Betriebssysteme(Vorlesung).md"
+              }
             }
           }
         ]
@@ -137,50 +158,49 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f526a1b5c26bc506",
+  "active": "f2a6468b443a2e46",
   "lastOpenFiles": [
-    "README.md",
-    "BS.zip",
-    "Anwendungs-, Prozessverwaltung.md",
-    "Ressource.md",
-    "BS/Vorlesungsfolien/GdBS-E-Proc.pdf",
-    "Betriebssysteme(Vorlesung).md",
-    "Auswahlstrategie.md",
-    "RR.md",
-    "Prozesszustand.md",
-    "präemptiv.md",
-    "HPF.md",
-    "Scheduler.md",
-    "Aufbau eines Rechnersystems.md",
-    "BS/Vorlesungsfolien/GdBS-I-Virt.pdf",
-    "SJF.md",
-    "FCFS.md",
-    "Prozess.md",
-    "Aktivitätsträger.md",
-    "Betriebsmittel.md",
-    "Prozessor.md",
-    "Unbenannt.canvas",
-    "PSJF.md",
-    "Prozess(Linux).md",
     "Betriebssystem.md",
-    "MuQSS.md",
-    "CFS.md",
-    "VRR.md",
-    "MLFQ.md",
-    "MLQ.md",
-    "PCB.md",
-    "BS/Vorlesungsfolien/GdBS-D-OS.pdf",
-    "Verwaltung Ein-",
-    "BS/Vorlesungsfolien/GdBS-C-Arch.pdf",
-    "BS/Vorlesungsfolien/GdBS-K-Rights.pdf",
+    "Betriebssysteme(Vorlesung).md",
+    "BS/Vorlesungsfolien/GdBS-E-Proc.pdf",
+    "BS/Tutoriumsfolien-20240911/Tutorium06_Folien.pdf",
+    "Sperrung von Unterbrechungen.md",
+    "Koordinierung.md",
+    "Spinlock.md",
+    "Semaphore.md",
     "BS/Vorlesungsfolien/GdBS-J-Deadlock.pdf",
-    "BS/Vorlesungsfolien/GdBS-H-InOut.pdf",
-    "BS/Vorlesungsfolien/GdBS-G-Mem.pdf"
+    "Nebenläufigkeit.md",
+    "Gegenseitiger Ausschluss.md",
+    "Wechselseitiger Ausschluss.md",
+    "Deadlock.md",
+    "Algorithmus von Peterson.md",
+    "TAS.md",
+    "SWP.md",
+    "Kritischer.md",
+    "Multithreading.md",
+    "Kritischer Abschnitt.md",
+    "BS/Tutoriumsfolien-20240911/Tutorium05_Folien.pdf",
+    "User-level Thread.md",
+    "Kernel-level Thread.md",
+    "Auswahlstrategie.md",
+    "Aktivitätsträger.md",
+    "Prozess(Linux).md",
+    "PCB(Linux).md",
+    "PCB.md",
+    "Scheduler.md",
+    "BS/Altklausuren-20240913/2023s-BS-K1-Klausur.pdf",
+    "Lösung 2023s-BS-K1-Klausur.md",
+    "BS/Altklausuren-20240913/2023s-GdBS-K1-Klausur.pdf",
+    "BS/Betriebssysteme Sheet.pdf",
+    "BS/GdBS-F-FS.pdf",
+    "BS/Vorlesungsfolien/GdBS-C-Arch.pdf",
+    "BS/Vorlesungsfolien/GdBS-D-OS.pdf",
+    "Unbenannt.canvas"
   ]
 }
