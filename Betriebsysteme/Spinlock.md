@@ -6,12 +6,12 @@ Ein Spinlock ist eine Sperre zum Schutz gemeinsam genutzter [[Ressource]]n, welc
 - Ist die Sperrvariable auf gesperrt gesetzt, so überprüft ein wartender [[Prozess]] diese ständig bis sie frei ist
 
  **Vorteile**
- - Für kurze [kritische Abschnitte](Kritischer%20Abschnitt) effizient 
+ - Für kurze [kritische Abschnitte](Kritischer%20Abschnitt.md) effizient 
  
  **Nachteile**
  - Aktives Warten verbraucht Rechenzeit
- - Effizienz abhängig von der [Scheduling](Scheduler)-Strategie
+ - Effizienz abhängig von der [Scheduling](Scheduler.md)-Strategie
 
 Einsatz fast ausschließlich in Multiprozessorsytemen 
 - Koordinierung über mehrere [[Prozessor]]en hinweg 
-- nur für kurze kritische Abschnitte effizient  z.B. Zugang zur Bereit-Warteschlange beim [Scheduling](Scheduler)
+- nur für kurze kritische Abschnitte effizient  z.B. Zugang zur Bereit-Warteschlange beim [Scheduling](Scheduler.md)

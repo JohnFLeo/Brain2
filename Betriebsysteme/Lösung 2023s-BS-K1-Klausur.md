@@ -49,4 +49,4 @@ Ein [[Spinlock]] ist eine Sperre zum Schutz gemeinsam genutzter [[Ressource]]n, 
 - [[Prozess]] -modifizeiert-> [[Ressource]]
 - [[Prozess]] -setzt-> Sperrvariable := frei
 ![[2023s-BS-K1-Klausur.pdf#page=3&rect=36,177,568,224|2023s-BS-K1-Klausur, p.3]]
-Für kurze [Kritische Abschnitte](Kritischer%20Abschnitt) ist ein [[Spinlock]] effizienter da weniger Overhead zu erwarten ist
+Für kurze [Kritische Abschnitte](Kritischer%20Abschnitt.md) ist ein [[Spinlock]] effizienter da weniger Overhead zu erwarten ist

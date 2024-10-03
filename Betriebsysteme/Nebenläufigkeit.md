@@ -3,7 +3,7 @@
 	- müssen nicht aufeinander warten
 	- müssen sich nicht synchronisieren 
 - nebenläufige [[Aktivitätsträger]] können unabhängig voneinander ablaufen
-- nebenläufige Aktivitätsträger können [parallel](Parallelität) laufen
+- nebenläufige Aktivitätsträger können [parallel](Parallelität.md) laufen
 ## Probleme
  - Befehle einer Programmiersprache nicht unteilbar (atomar) 
  - Abbildung auf mehrere Maschinenbefehle

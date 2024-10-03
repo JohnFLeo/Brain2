@@ -10,4 +10,4 @@ Elegante Methode in Monoprozessorsystemen um Probleme bei Nebenläufigkeit zu ve
 
 **Nachteile**
 - extra Befehle nötig
-- nur für kurze [kritische Abschnitte](Kritischer%20Abschnitt) geeignet
+- nur für kurze [kritische Abschnitte](Kritischer%20Abschnitt.md) geeignet

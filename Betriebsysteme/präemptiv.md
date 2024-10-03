@@ -1,6 +1,6 @@
 Man unterscheidet bei den Auswahlstrategien in präemptive und nicht-präemptive Strategien. Dabei ist eine präemptive oder auch verdrängende Strategie eine bei der der Prozess auch dann einen Zustandswechsel erfährt, wenn es nicht zwingend ist.
 
-[Prozesszustände](Prozesszustand) müssen bei Bestimmten Aktionen zwingend geändert werden dazu gehören:
+[Prozesszustände](Prozesszustand.md) müssen bei Bestimmten Aktionen zwingend geändert werden dazu gehören:
 - Von Laufend nach Blockiert z.B. Warten auf Platte oder andere Geräte
 - Von Laufend nach Terminiert
 

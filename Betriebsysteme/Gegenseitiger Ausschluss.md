@@ -3,10 +3,10 @@ Gleichbedeutend mit [[Wechselseitiger Ausschluss]] auch Mutex (engl.: Mutual Exc
 
 
 **Idee**
-- Vorkehrungen, dass nicht mehrere [[Prozess]]e gleichzeitig im [kritischen Abschnitt](Kritischer%20Abschnitt) sind
-- [[Prozess]] kommt an einen [kritischen Abschnitt](Kritischer%20Abschnitt)
+- Vorkehrungen, dass nicht mehrere [[Prozess]]e gleichzeitig im [kritischen Abschnitt](Kritischer%20Abschnitt.md) sind
+- [[Prozess]] kommt an einen [kritischen Abschnitt](Kritischer%20Abschnitt.md)
 	- wartet bis alle anderen [[Prozess]]e den Abschnitt verlassen haben
--  vor und nach [kritischen Abschnitt](Kritischer%20Abschnitt) muss es spezielle Anweisungen geben
+-  vor und nach [kritischen Abschnitt](Kritischer%20Abschnitt.md) muss es spezielle Anweisungen geben
 	- meist benötigen diese Anweisungen gemeinsame Datenstrukturen
 
 **Probleme**

@@ -11,10 +11,10 @@
 - Ausnutzung von Mehrkernprozessoren und -systemen 
 	- echte Parallelität bei nur einem [[Prozess]]
 - in der Regel übersichtlicherer Code 
-- [[Prozess]] als Hülle für gemeinsame [[Ressource]]n der [Threads](Aktivitätsträger) 
+- [[Prozess]] als Hülle für gemeinsame [[Ressource]]n der [Threads](Aktivitätsträger.md) 
 - gleiche Daten und gleicher Code (Speicher) 
 - Schutzumgebung 
-	- Umschaltung zwischen [Threads](Aktivitätsträger) im gleichen [[Prozess]] ist effizienter als zwischen [Threads](Aktivitätsträger) verschiedener [[Prozess]]e 
+	- Umschaltung zwischen [Threads](Aktivitätsträger.md) im gleichen [[Prozess]] ist effizienter als zwischen [Threads](Aktivitätsträger.md) verschiedener [[Prozess]]e 
 - gemeinsam genutzte Dateien, Netzwerkverbindungen etc.
 
 **Nachteile**

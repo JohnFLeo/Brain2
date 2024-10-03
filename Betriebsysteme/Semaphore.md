@@ -5,9 +5,9 @@ Eine Semaphore grich. Zeichenträger ist eine Systemdatenstruktur mit zwei Opera
 ![[GdBS-E-Proc.pdf#page=128&rect=94,42,650,372&color=yellow|GdBS-E-Proc, p.128]]
 **Funktionsweise**
 - Vor dem Zugriff auf eine geschützte [[Ressource]], muss ein [[Prozess]] die P-Operation aufrufen 
-- Ist der Wert der Variablen $\le$ 0, so wird der aufrufende [[Prozess]] [blockiert](Prozesszustand) und in eine Warteschlange eingereiht 
+- Ist der Wert der Variablen $\le$ 0, so wird der aufrufende [[Prozess]] [blockiert](Prozesszustand.md) und in eine Warteschlange eingereiht 
 - Falls nicht, bekommt der [[Prozess]] Zugriff auf die [[Ressource]] 
-- Zum Freigeben der [[Ressource]] muss die V-Operation aufgerufen werden, welche die [blockierten](Prozesszustand) [[Prozess]]e aus der Warteschlange benachrichtigt
+- Zum Freigeben der [[Ressource]] muss die V-Operation aufgerufen werden, welche die [blockierten](Prozesszustand.md) [[Prozess]]e aus der Warteschlange benachrichtigt
 ## Implementierung über [[Sperrung von Unterbrechungen]] (Monoprozessor)
 - P-Operation
 ![[GdBS-E-Proc.pdf#page=130&rect=81,37,662,345&color=yellow|GdBS-E-Proc, p.130]]

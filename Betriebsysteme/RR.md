@@ -1,12 +1,12 @@
 kurz für Round Robin
 - Zuteilung erfolgt reihum
-- ähnlich wie [[FCFS]] aber mit automatischer [Verdrängung](präemptiv) nach bestimmtem Zeitintervall -> Zeitscheibe
-- Warteschlange für [[Prozess]]e im Zustand [Bereit](Prozesszustand) 
+- ähnlich wie [[FCFS]] aber mit automatischer [Verdrängung](präemptiv.md) nach bestimmtem Zeitintervall -> Zeitscheibe
+- Warteschlange für [[Prozess]]e im Zustand [Bereit](Prozesszustand.md) 
 - [[Prozess]]e werden hinten eingereiht, vorne entnommen 
 - nach Ablauf der Zeitscheibe wird der [[Prozess]] erneut eingereiht
 
 ![[GdBS-E-Proc.pdf#page=61&rect=62,36,503,161|GdBS-E-Proc, p.61]]
-- muss [[Prozess]] den [[Prozessor]] verlassen, wird die Zeitscheibe abgebrochen siehe [Blockierung, Terminierung](präemptiv)
+- muss [[Prozess]] den [[Prozessor]] verlassen, wird die Zeitscheibe abgebrochen siehe [Blockierung, Terminierung](präemptiv.md)
 - Die Länge der Zeitscheibe ist ausschlaggebend
 	- kurze Zeitscheibe: ständige Kontextwechsel -> Overhead
 	- lange Zeitscheibe: Annäherung an [[FCFS]] -> selbe Problematik
@@ -17,6 +17,6 @@ kurz für Round Robin
  - geeignet für Time-Sharing-Betrieb 
  - gleichmäßige Verteilung der Rechenzeit 
  - fair (?) 
- - Wartezeit kann lang sein das hängt jedoch von Anzahl der bereiten [Prozesse](Prozess) und der Zeitscheibenlänge ab 
+ - Wartezeit kann lang sein das hängt jedoch von Anzahl der bereiten [Prozesse](Prozess.md) und der Zeitscheibenlänge ab 
  - nicht gut für interaktiven Betrieb 
- - [blockierende](Prozesszustand) [[Prozess]]e benachteiligt denn diese nutzen Zeitscheibe nicht aus und müssen wieder hinten anstehen
+ - [blockierende](Prozesszustand.md) [[Prozess]]e benachteiligt denn diese nutzen Zeitscheibe nicht aus und müssen wieder hinten anstehen
