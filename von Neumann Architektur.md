@@ -1,3 +1,0 @@
-- Siehe auch: [[Harvard Architektur]]
-- Auch princeton Architektur genannt
-- Sowohl Daten als auch Programm sind im selben Speicher

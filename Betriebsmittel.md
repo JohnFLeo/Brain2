@@ -1,1 +1,0 @@
-Betriebsmittel oder Systemressourcen (oder einfach Ressourcen) sind Systemelemente eines Computers, die von Prozessen zur korrekten Ausführung benötigt werden, wie z. B. Festplatte, Arbeitsspeicher oder Drucker. Der Zugriff auf die Ressourcen wird durch das Betriebssystem geregelt.[Quelle](https://de.wikipedia.org/wiki/Betriebsmittel_(Informatik))

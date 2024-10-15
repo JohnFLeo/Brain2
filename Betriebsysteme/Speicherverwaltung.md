@@ -1,0 +1,19 @@
+- [[Logischer Adressdaum]]
+- [[Virtueller Speicher]]
+- Speichervergabe
+- Segment
+- Freispeicherverwaltung
+- Vergabestrategien
+- Segmentierung
+- Kompaktieren
+- [[Seitenadressierung]]
+- Segmentierung und Seitenadressierung
+- Hierarchische Seitenadressierung
+- Ein- und Auslagerung
+- Translation Look-Aside Buffer (TLB)
+- Bsp.: Intel x86-x32 Speicherarchitektur
+- [[Seitenersetzung]]
+- Freiseitenpuffer
+- Seitenflattern
+- Deaktivieren von Prozessen
+- 

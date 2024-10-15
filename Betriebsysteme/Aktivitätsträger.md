@@ -1,0 +1,5 @@
+- Befehlsstrang eines Prozesses auch Thread genannt
+- Registerinhalte(Kontext) inkl. PC siehe [[Prozessor]] 
+- Startet Befehlsbearbeitung mit Erzeugung des [[Prozess]]es
+- [[Multithreading]]
+- 

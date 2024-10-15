@@ -1,1 +1,0 @@
-Kritische Abschnitte werden als Befehlsfolgen angesehen die nicht unterbrochen werden können

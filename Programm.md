@@ -1,1 +1,0 @@
-Ein Programm ist eine Folge von Anweisungen und dazugehörigen Daten, die hinterlegt ist z.B. als ausführbare Datei im Hintergrundspeicher

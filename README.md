@@ -1,1 +1,0 @@
-This is the attempt of structuring the slides from a lecture abot operating systems. It is in a really unfinished stage. Hopefully I will be able to integrate all my lecture notes into this conglomerate of knowlege.

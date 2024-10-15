@@ -1,0 +1,3 @@
+ Die Ressourcen (englisch resource) einer Software sind die Dateien, die nicht den Ablauf (Algorithmus) des Programms festlegen, sondern das „Hintergrundwissen“ für den Ablauf speichern.[Quelle](https://de.wikipedia.org/wiki/Ressource_(Software)#:~:text=Die%20Ressourcen%20(englisch%20resource)%20einer,Hintergrundwissen%E2%80%9C%20f%C3%BCr%20den%20Ablauf%20speichern.)
+**Problem:** es wird auch bei [[Betriebsmittel]]n von RessourceFn gesprochen
+ 
