@@ -8,15 +8,15 @@
 - Von Neumann Zyklus
 - RISC vs CISC
 
-## Speicherarchitektur
-- Cache
+## [[Speicherarchitektur]]
+- [[Cache]]
 	- Trennung von Datenverarbeitung und Speicherzugriff
 	- Direct Mapped Cache(\<Addr\>mod Cachegröße)
 	- Vollassozitiver Cache(\<Addr\> -> CAM(Assoziativspeicher) -> Datum)
 	- Zwifach Assoziativer Cache
 - Elmore Delay
-- Banking
-- SRAM vs DRAM
+- Banking (Interleafing)
+- SRAM vs [[DRAM]]
 - Speicherblock vs Cache Line
 - LRU
 - LFU
@@ -54,15 +54,18 @@
 ## [[Skalare Architektur]]
 - Klasse an Prozessoren
 - eine Information pro Zyklus
-- Pipelining
+- [[Pipelining]]
 - Pipeline Stall
 - Out of Order
 - Static Branchprediction
 - RISC da gleiche ausführungsdauer
-## Superskalare Architektur
+## [[Superskalare Architektur]]
 - SIMD
 - MIMD
 - Nebenläufigkeit und parallelität
+- Register renaming
+- [[Branch Prediction]]
+- 
 ## Vektorrechner
 ## VHDL
 - Synthese
