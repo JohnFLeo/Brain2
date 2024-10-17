@@ -1,0 +1,6 @@
+- Mini-Version 
+- Eine lokale kleine Anwendung
+- Templates 
+- Arbeiten mit Bibliotheken
+- Gute Commits
+- Space Invader?

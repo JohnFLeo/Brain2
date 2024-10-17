@@ -1,0 +1,1 @@
+Beschreibt das zu entwickelnde System aus einer technischen Sicht
