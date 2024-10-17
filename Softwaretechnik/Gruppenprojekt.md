@@ -12,3 +12,8 @@
 - Git, Issues, Git Story Board
 - Wöchentliche Sprint-Meetings im Tutorium
 - Abnahme-Sitzung
+- Schachbrettartiges Feld
+- Battlefront Tactics
+	- Runden basiertes Taktik Spiel
+	- Kaufen
+	- Einheiten
