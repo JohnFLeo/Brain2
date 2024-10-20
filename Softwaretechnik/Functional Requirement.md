@@ -1,0 +1,1 @@
+Beschreibt die eigentliche Aufgabe des Systems also das Verhalten zu bestimmten Eingaben oder bei bestimmten Situationen. Teils wird auch festgehalten, was das System in bestimmten Situationen nicht machen soll.

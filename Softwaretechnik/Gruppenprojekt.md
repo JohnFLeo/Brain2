@@ -1,0 +1,19 @@
+- Editor
+- Server
+- KI-Client
+- User-Client
+- Start Ende Dezember
+- 4-6 Personen
+- 6 Meilenstein-Blätter
+- Messe im Mai (Einkauf einer Komponente)
+	- Server
+	- Editor
+- Docker
+- Git, Issues, Git Story Board
+- Wöchentliche Sprint-Meetings im Tutorium
+- Abnahme-Sitzung
+- Schachbrettartiges Feld
+- Battlefront Tactics
+	- Runden basiertes Taktik Spiel
+	- Kaufen
+	- Einheiten
