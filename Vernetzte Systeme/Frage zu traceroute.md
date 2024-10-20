@@ -1,0 +1,2 @@
+![[Pasted image 20241019153732.png]]
+Warum unterschiedliche Ip-Adressen für die 3 RTT Messungen ab den 3 Sternen? Eigentlich sollte doch aufgrund der lokalen Tabellen in den Routern die selbe Stecke genommen werden, oder?
