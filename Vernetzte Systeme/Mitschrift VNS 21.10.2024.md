@@ -1,0 +1,29 @@
+- DSL = Standard wie das internet angebunden ist bzw umgesetzt wird (Telefonkabel)
+- Router, DSL, und Wireless Access Point sind häufig in einem Bauteil
+- Routing
+	- Algorithmus, der den Weg bestimmt -> local forwarding table
+	- Verteilter Algorithmus (Komunikation mit anderen Routern)
+- Forwarding
+	- Der tatsächliche Vorgang das Packet 
+- Internet exchange point vs peering link?
+	- IXP braucht man da jeder mit jedem zu einem vollständigen Graphen führen würde (O(N²))
+	- Peering -> großer Verwaltungsaufwand da verschiedene Ansprechpartner
+- BelWue
+	- Dark fiber = Allein-Nutzung durch BelWue
+	- [Website](https://www.belwue.de/netz/topologie.html)
+	- Private peerings z.B zu Riot Games 
+- Ursachen Verzögerung
+	- Propagation = Ausbreitung im Medium
+	- Queueing = Packetverlust durch volle Queue
+	- Transmission = Menge der Packete die zeitgleich (parallel) durch das medium passen (anzahl Leitungen)
+	- Processing = Fehlerprüfung bzw routing/forwarding
+- whois \<ip\> -> infos zu IP
+- Wer löst die IP auf?
+	- Domainname System ->Telefonbuchartig -> dezentral
+	- IP ändert sich im client Netzwerk 
+	- Für große Server ändern sich ip adressen nicht häufig
+	- IP-Adressen Auktionen
+- mtr: My trace Route besseres tool für analysen
+- Begriff Host im Netzwerkbereich: Client und Server (Gerät, das mit dem Internet verbunden ist)
+- Client Host vs P2P
+- 
